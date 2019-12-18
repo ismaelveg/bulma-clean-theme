@@ -28,7 +28,8 @@
                     </div>
                     {% else %}
                     <a href="{{ item.link | prepend: site.baseurl }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
-                    {% endif %}
+                    <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">Clases</a>
+                {% endif %}
                 {% endfor %}
                 {% endif %}
             </div>
