@@ -4,7 +4,7 @@ tagline: Anthony Ismael Vélez García
 email: Anthonyvelez_18@hotmail.com
 description: >
   Blog academico
-baseurl: "/bulma-clean-theme"
+baseurl: "/"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
