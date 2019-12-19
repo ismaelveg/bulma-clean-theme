@@ -2,8 +2,6 @@
 title: Perfil
 subtitle: Perfil academico y profesional
 layout: page
-callouts: home_callouts
-show_sidebar: true
 ---
 
 # Instruccion Académica:
